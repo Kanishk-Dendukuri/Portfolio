@@ -4,5 +4,5 @@ Hey there! My name is Kanishk Dendukuri and this is my github portfolio. Below y
 
 
 # Java
-After learning java for almost 4 months, my friends and I decided to develop a game using java awt and jpanel. We decided to make a shooting game called GETAWAY https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/ - automatic! where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
+After learning java for almost 4 months, my friends and I decided to develop a game using java awt and jpanel. We decided to make a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
 
