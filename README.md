@@ -4,7 +4,10 @@ Hey there! My name is Kanishk Dendukuri and this is my github portfolio. Below y
 
 
 # Scratch
-I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/) where players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start. After getting used to scrtach I decided to make a two player coop pacman game named [pac man-10](https://scratch.mit.edu/projects/164566851/) where a player can choose between single player and coop more with the goal of eating all the green dots before the enimies kill you. It even has multiple levels. 
+I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/) where players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start. 
+![CarRace](https://user-images.githubusercontent.com/65775557/161588718-9a4a12f1-402b-458b-a553-81c672e196e4.png)
+
+After getting used to scrtach I decided to make a two player coop pacman game named [pac man-10](https://scratch.mit.edu/projects/164566851/) where a player can choose between single player and coop more with the goal of eating all the green dots before the enimies kill you. It even has multiple levels. 
 
 
 # Java
