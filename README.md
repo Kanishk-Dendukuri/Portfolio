@@ -1,4 +1,4 @@
-Portfolio
+# Portfolio
 Introduction
 Hey there! My name is Sarthak Agrawal you're currently reading my github portfolio. Below you will see some highlights of my projects. I was first exposed to programming as a freshman in highschool in the year 2018. My knowledge mainly extended to MIT APP Inventor and some java basics. As a sophomore, my java knowledge grew. At the end of my sophomore year, I was proficient in java and several libraries. Over the covid summer, I learned python and javascript and was able to build a few projects described here. In 2020, as a junior, I took iOS Development and developed several games and projects listed below as well.
 
