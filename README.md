@@ -29,11 +29,7 @@ I started the class with no prior knowledge in Swift, but I did have experience 
 After learning some basic spritekit I decided to work on a level based platformer with a couple of my friends. The game is called [Astro Portal](https://github.com/EPHS-iOS/Astro-Portal). Astro Portal is a platformer on the iOS app store. It is avaiable for iPhone, iPad, and has keyboard control support for macs with Apple Silicon chips. While making the game I learned how design levels in such a way that it maximizes the game mechanics. We also released two additional updates after the initial release on the App Store where we fixed bugs, reworked movement mechinacs to be more user-friendly, added a personal best system, and a launch trailer.
 
 ![IMG-6101](https://user-images.githubusercontent.com/65775557/162009218-aaa7a04e-8a42-44c3-b76c-270c71500a23.PNG)   ![IMG-6102](https://user-images.githubusercontent.com/65775557/162009230-7c89715e-e9b2-4e78-b178-b3e3aaf9f263.PNG)
-![IMG-6104](https://user-images.githubusercontent.com/65775557/162009256-6baae990-2cb7-448f-b78e-bd13517ba604.PNG)   ![IMG-6103](https://user-images.githubusercontent.com/65775557/162009317-3e6808d5-8370-4cd2-bc71-d41f532abeb2.PNG)
-
-
-
-
+![IMG-6104](https://user-images.githubusercontent.com/65775557/162009256-6baae990-2cb7-448f-b78e-bd13517ba604.PNG)   ![IMG-6106](https://user-images.githubusercontent.com/65775557/162010166-bcc96829-a96a-4932-afc1-53e8f503ebe8.PNG)
 
 https://user-images.githubusercontent.com/65775557/161876811-81a9af95-ef98-43a6-9128-429822842a0b.mp4
 
