@@ -20,8 +20,8 @@ After learning java for almost 4 months, my friends and I decided to develop a g
 
 # iOS App Development
 
-I started the class with no prior knowledge in Sw![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 38](https://user-images.githubusercontent.com/65775557/161875524-208fd4b7-4965-4f86-b63f-d1aa87c3a2a6.png)
-ift, but I did have experience with developing in other languages such as c++, python, and java. So I decided to make a simple game. In the procces of making the game I learned a lot about spriteKit. I incorperated a highscore that stores on the devide and even had music. [Astroid Dodge](https://github.com/kanthecalc/SpaceKan)
+I started the class with no prior knowledge in Swift, but I did have experience with developing in other languages such as c++, python, and java. So I decided to make a simple game. In the procces of making the game I learned a lot about spriteKit. I incorperated a highscore that stores on the devide and even had music. [Astroid Dodge](https://github.com/kanthecalc/SpaceKan)
+![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 38](https://user-images.githubusercontent.com/65775557/161875524-208fd4b7-4965-4f86-b63f-d1aa87c3a2a6.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 34](https://user-images.githubusercontent.com/65775557/161875503-7c3cd04e-8e8e-41d3-a988-83b5f3ea93aa.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 26](https://user-images.githubusercontent.com/65775557/161875521-ac2adda3-e57e-48da-92fd-a767d9eb599e.png)
 
