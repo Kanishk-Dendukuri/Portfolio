@@ -33,4 +33,7 @@ After learning some basic spritekit I decided to work on a level based platforme
 
 https://user-images.githubusercontent.com/65775557/161876811-81a9af95-ef98-43a6-9128-429822842a0b.mp4
 
+The game I am working on now is called [Knight](https://github.com/EPHS-iOS/knight) (till we come up with a better name). Knight is going to be a metroidvania where the player has to explore the map to find abilities to be able to reach other parts of the map. I am excited to design the map and make exciting boss fights. 
+
+
 
