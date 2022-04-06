@@ -28,13 +28,18 @@ The game I am working on now is called [Knight](https://github.com/EPHS-iOS/knig
 
 After learning java for almost 4 months, my friends and I decided to develop a game using java awt and jpanel. We decided to make a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
 
+![Screen Shot 2022-04-06 at 12 02 19 PM](https://user-images.githubusercontent.com/65775557/162028715-e91c17d3-ce71-41f4-aaa5-76b5525acc98.png)
+
+
 
 # Scratch
 
-I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/). In the game players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start. 
+I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/). In the game players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start.
+
 ![CarRace](https://user-images.githubusercontent.com/65775557/161588718-9a4a12f1-402b-458b-a553-81c672e196e4.png)
 
 After getting used to scrtach I decided to make a two player coop pacman game named [pac man-10](https://scratch.mit.edu/projects/164566851/) where a player can choose between single player and coop mode with the goal of eating all the green dots before the enimies kill you. It even has multiple levels. 
+
 ![Screen Shot 2022-04-04 at 11 28 30 AM](https://user-images.githubusercontent.com/65775557/161589517-4d59b96a-d5c9-4692-b072-8a9967402085.png)
 
 
