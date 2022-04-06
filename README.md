@@ -3,21 +3,6 @@
 Hey there! My name is Kanishk Dendukuri and this is my portfolio. Below you will see highlights of my projects. I was first exposed to programming when I was in middle school where I made two player scratch games. In 10th grade, I took AP Computer Science A, in which I learned java and worked on a project at the end of the class. In 2020, as a junior, I took iOS Development and developed several games. In 12th grade, 2022, I am taking Advanced iOS App Development to learn more advanced game development and am working on a game with my friends.
 
 
-# Scratch
-
-I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/). In the game players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start. 
-![CarRace](https://user-images.githubusercontent.com/65775557/161588718-9a4a12f1-402b-458b-a553-81c672e196e4.png)
-
-After getting used to scrtach I decided to make a two player coop pacman game named [pac man-10](https://scratch.mit.edu/projects/164566851/) where a player can choose between single player and coop mode with the goal of eating all the green dots before the enimies kill you. It even has multiple levels. 
-![Screen Shot 2022-04-04 at 11 28 30 AM](https://user-images.githubusercontent.com/65775557/161589517-4d59b96a-d5c9-4692-b072-8a9967402085.png)
-
-
-# Java
-
-After learning java for almost 4 months, my friends and I decided to develop a game using java awt and jpanel. We decided to make a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
-
-
-
 # iOS App Development
 
 I started the class with no prior knowledge in Swift, but I did have experience with developing in other languages such as c++, python, and java. So I decided to make a simple game. In the procces of making the game I learned a lot about spriteKit. The game was very simple, the player has to dodge the astroids for as long as they can. I also incorperated a highscore that stores on the devide and even had music. [Astroid Dodge](https://github.com/kanthecalc/SpaceKan)
@@ -36,4 +21,20 @@ https://user-images.githubusercontent.com/65775557/161876811-81a9af95-ef98-43a6-
 The game I am working on now is called [Knight](https://github.com/EPHS-iOS/knight) (till we come up with a better name). Knight is going to be a metroidvania where the player has to explore the map to find abilities to be able to reach other parts of the map. I am excited to design the map and make exciting boss fights. 
 
 ![Screen_Shot_2022-04-05_at_11 35 39_AM](https://user-images.githubusercontent.com/65775557/162014070-823def8f-ba48-4d19-a219-a6c6ff90d9b8.png)   ![Screen_Shot_2022-04-05_at_11 36 17_AM](https://user-images.githubusercontent.com/65775557/162014131-a78bf502-bed6-4ce0-b140-035328e44c1c.png)
+
+
+
+# Java
+
+After learning java for almost 4 months, my friends and I decided to develop a game using java awt and jpanel. We decided to make a shooting game called [GETAWAY](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-mario/) where players run and dodge bullets and obstacles and try to make it into the getaway car. Laser shooting desert rangers and awfully fast chickens guest star.
+
+
+# Scratch
+
+I first started learing programming with a simple two player car racing game called [CarRace](https://scratch.mit.edu/projects/163303345/). In the game players race around a small track to get to the finish line first. If a player goes outside the track they get reset back to the start. 
+![CarRace](https://user-images.githubusercontent.com/65775557/161588718-9a4a12f1-402b-458b-a553-81c672e196e4.png)
+
+After getting used to scrtach I decided to make a two player coop pacman game named [pac man-10](https://scratch.mit.edu/projects/164566851/) where a player can choose between single player and coop mode with the goal of eating all the green dots before the enimies kill you. It even has multiple levels. 
+![Screen Shot 2022-04-04 at 11 28 30 AM](https://user-images.githubusercontent.com/65775557/161589517-4d59b96a-d5c9-4692-b072-8a9967402085.png)
+
 
