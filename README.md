@@ -1,6 +1,6 @@
 # Portfolio
 
-Hey there! My name is Kanishk Dendukuri and this is my portfolio. Below you will see some highlights of my projects. I was first exposed to programming when I was in middle school in 2017, in which I made two player scratch games. In 10th grade, I took AP Computer Science A, in which I learned alot of java. In 2020, as a junior, I took iOS Development and developed several games. In 12th grade, 2022, I took Advanced iOS App Development to learn more advanced game development and am working on a game with my friends.
+Hey there! My name is Kanishk Dendukuri and this is my portfolio. Below you will see some highlights of my projects. I was first exposed to programming when I was in middle school in 2017, in which I made two player scratch games. In 10th grade, I took AP Computer Science A, in which I learned alot of java. In 2020, as a junior, I took iOS Development and developed several games. In 12th grade, 2022, I am taking Advanced iOS App Development to learn more advanced game development and am working on a game with my friends.
 
 
 # Scratch
