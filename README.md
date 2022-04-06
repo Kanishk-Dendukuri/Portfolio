@@ -26,7 +26,9 @@ I started the class with no prior knowledge in Swift, but I did have experience 
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 34](https://user-images.githubusercontent.com/65775557/161876555-7b8c6a95-9508-490b-a6d7-49e3a4e8c980.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-02-24 at 12 34 38](https://user-images.githubusercontent.com/65775557/161876556-fbd02510-a49e-4190-8e6e-f530dc6ca7b4.png)
 
-After learning some basic spritekit I decided to work on a level based platformer with a couple of my friends. I maninly worked on making level design ideas and implementing it to the game so that it draws the most out of the games movement mechanics. I also worked on the simple ui which takes the player from the menu to the levels. At the end of the project I added the timer feature which tracks the fastest time the player has on each level. I also made the launch trailer for the game which will help us reach more player.
+After learning some basic spritekit I decided to work on a level based platformer with a couple of my friends. The game is called [Astro Portal](). Astro Portal is a platformer on the iOS app store. It is avaiable for iPhone, iPad, and has keyboard control support for macs with Apple Silicon chips. While making the game I learned how design levels in such a way that it maximizes the game mechanics. We also released two additional updates after the initial release on the App Store where we fixed bugs, reworked movement mechinacs to be more user-friendly, added a personal best system, and a launch trailer.
+
+
 
 
 https://user-images.githubusercontent.com/65775557/161876811-81a9af95-ef98-43a6-9128-429822842a0b.mp4
