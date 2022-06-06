@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/65775557/161876811-81a9af95-ef98-43a6-
 The game I am working on now is called [Spelunk Knight](https://github.com/EPHS-iOS/knight). Spelunk Knight a metroidvania where the player has to explore the map to find abilities to be able to reach other parts of the map. I am designing the map and the exciting boss fights. 
 
 
-<img width="500" alt="Screen Shot 2022-06-06 at 10 32 46 AM" src="https://user-images.githubusercontent.com/61213336/172194186-c22a4e3c-88d6-41aa-840f-770f7818b3ed.png">. <img width="500" alt="Screen Shot 2022-06-06 at 10 32 46 AM" src="https://user-images.githubusercontent.com/61213336/172194201-08801ae9-8041-4cf5-946b-3a8f627ef0b3.png">
+<img width="500" alt="Screen Shot 2022-06-06 at 10 32 46 AM" src="https://user-images.githubusercontent.com/61213336/172194186-c22a4e3c-88d6-41aa-840f-770f7818b3ed.png"> <img width="500" alt="Screen Shot 2022-06-06 at 10 32 46 AM" src="https://user-images.githubusercontent.com/61213336/172194201-08801ae9-8041-4cf5-946b-3a8f627ef0b3.png">
 
 
 
